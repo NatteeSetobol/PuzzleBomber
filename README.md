@@ -1,5 +1,5 @@
 # PuzzleBomber
-A 2D Puzzle game simular to Puzzle Fighter for the Linux/Windows.
+uzzle Bomber is a beloved arcade classic, known for its addictive gameplay and colorful graphics. This puzzle game, inspired by Capcom's Super Puzzle Fighter, brings that same addictive gameplay to Linux, OSX, and Windows platforms. 
 
 ![alt tag](http://nsetobol.herokuapp.com/images/PB.png)
 
